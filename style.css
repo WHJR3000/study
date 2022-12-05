@@ -1,0 +1,17 @@
+img{
+    height:100px;
+    width:100px;
+}
+body{
+    background:linear-gradient(to bottom right, red, blue, green, white, magenta, indigo, violet, purple, pink, black, maroon, lime, yellow, gold, silver, orange, aquamarine, cyan, brown, crimson, ivory);
+}
+h1{
+    color:white;
+}
+h2{
+    color:white;
+
+}
+h3{
+    color:white;
+}
